@@ -33,7 +33,7 @@ not only for the GSoC contributors but also for the many Jenkins users who will 
 We are excited to welcome new GSoC contributors to the Jenkins family. 
 We think you will enjoy this valuable experience while developing your technical skills. 
 You will gain insights into how the community works. 
-The best part will be learning from people who are passionate about the Jenkins community 
+The best part will be learning from people who are passionate about Jenkins  
 but more passionate about wanting to make a difference for another individual (GSoC contributors) and for the betterment of the project as a whole, 
 
 For detailed information on Jenkins GSoC 2021
@@ -90,7 +90,7 @@ GSoC org admins will help to find advisers if special expertise is required.
 //removed this section
 
 
-== Important dates for GSoC 2021
+== Important dates for GSoC 2022
 
 * Apr 19 - deadline for student applications
 * May 20 - accepted projects announced, teams start community bonding and coding
